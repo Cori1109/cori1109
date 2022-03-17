@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">👋 Senior Blockchain Engineer</h1>
 
-<!--
-**Cori1109/cori1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+😎 Skillful full-stack engineer with 8+ years of experience in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Took part into the succeed products based on the blockchain and finance technology.
+
+🔭 Fast-Leaner, Co-Operator, Team-Manager, Team-Leader, Consultant.
+
+👨‍💻 Well versed in various programming languages, frameworks and platforms, and also strong with DevOps, team collaboration, and projects management.
+
+👨‍🎓 Master's Degree of Applied Science
+
+## Short History
+
+&emsp;...
+
+- Core Backend Engineer & Devops at <a href="https://github.com/motorvate">Motorvate</a>
+
+- Super Smart Contract | Web3 Engineer at <a href="https://github.com/doejo">Doejo</a>
+
+- Full-Stack Developer at <a href="https://bitbucket.org/netcorelabs">Nfinity</a>
