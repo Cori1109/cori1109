@@ -2,6 +2,8 @@
 
 ## About
 
+DiscordID: Andi1109#6221
+
 😎 Skillful full-stack engineer with 8+ years of experience in software development.
 
 🚀 Took part into the succeed products based on the blockchain and finance technology.
