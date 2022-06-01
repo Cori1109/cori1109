@@ -2,7 +2,6 @@
 
 ## About
 
-DiscordID: Andi1109#6221
 
 😎 Skillful full-stack engineer with 8+ years of experience in software development.
 
@@ -14,12 +13,3 @@ DiscordID: Andi1109#6221
 
 👨‍🎓 Master's Degree of Applied Science
 
-## Short History
-
-&emsp;...
-
-- Core Backend Engineer & Devops at <a href="https://github.com/motorvate">Motorvate</a>
-
-- Super Smart Contract | Web3 Engineer at <a href="https://github.com/doejo">Doejo</a>
-
-- Full-Stack Developer at <a href="https://bitbucket.org/netcorelabs">Nfinity</a>
